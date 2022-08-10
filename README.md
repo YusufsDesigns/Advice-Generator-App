@@ -71,7 +71,7 @@ I would love to learn more about API's and how to use them to build complex appl
 
 ### Useful resources
 
-- [Example resource 1](https://api.adviceslip.com/) - This is where I got the advice API.
+- [Advice Slip API](https://api.adviceslip.com/) - This is where I got the advice API.
 ## Author
 - Frontend Mentor - [@YusufsDesigns](https://www.frontendmentor.io/profile/YusufsDesigns)
 - Twitter - [@yusuf_Designs](https://twitter.com/yusuf_Designs)
