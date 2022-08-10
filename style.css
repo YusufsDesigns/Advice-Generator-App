@@ -96,3 +96,22 @@ img{
 .advice-content{
     max-width: 500px;
 }
+
+@media(max-width: 720px){
+    .advice-content{
+        max-width: 800px;
+    }
+
+    
+    .advice-box p{
+        font-size: 20px;
+    }
+
+    .advice-container{
+        max-width: 400px;
+        position: relative;
+        top: 200px;
+        margin-top: 3rem;
+        margin-right: 2rem;
+    }
+}
