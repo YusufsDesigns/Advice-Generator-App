@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://advice-generator-app-sooty.vercel.app/)
 
 ### What I learned
 ```css
@@ -71,15 +71,7 @@ I would love to learn more about API's and how to use them to build complex appl
 
 ### Useful resources
 
-- [Example resource 1](https://api.adviceslip.com/) - This is where I got the advice API.
+- [Advice Slip API](https://api.adviceslip.com/) - This is where I got the advice API.
 ## Author
 - Frontend Mentor - [@YusufsDesigns](https://www.frontendmentor.io/profile/YusufsDesigns)
 - Twitter - [@yusuf_Designs](https://twitter.com/yusuf_Designs)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
